@@ -28,8 +28,8 @@ dos formatos, y el resultado está en `ejemplo/outputs/presentacion` y `ejemplo/
 Requiere R ≥ 4.1. Para instalar o actualizar:
 
 ```r
-install.packages("pak")
-pak::pak("joaquin-vmo/vitus")
+install.packages("remotes")
+remotes::install_github("joaquin-vmo/vitus")
 ```
 
 Las dependencias (`tidyverse`, `ragg`, `scales`, `svglite` y `systemfonts`) se instalan solas.
