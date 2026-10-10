@@ -1,0 +1,12 @@
+Package: vitus
+Title: Formato de Figuras para Presentaciones e Informes
+Version: 0.1.0
+Authors@R: person("Joaquín", "Martínez", email = "joaquinmartinezojeda@gmail.com", role = c("aut", "cre"))
+Description: Temas, paletas, fuentes y escalas de ggplot2 para presentaciones (fondo oscuro, Georgia) e informes (fondo blanco, Garamond), y funciones para guardar los gráficos como PNG o SVG transparentes y sin título, listos para pegar en PowerPoint o Word. El formato de presentaciones se activa al cargar el paquete.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: es
+Depends: R (>= 4.1.0), tidyverse
+Imports: ggplot2 (>= 3.5.0), ragg, scales, svglite, systemfonts
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.0.0

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='432.00pt' height='270.00pt' viewBox='0 0 432.00 270.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0MzIuMDB8MC4wMHwyNzAuMDA='>
+    <rect x='0.00' y='0.00' width='432.00' height='270.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0MzIuMDB8MC4wMHwyNzAuMDA=)'>
+<rect x='0.000000000000032' y='0.00' width='432.00' height='270.00' style='stroke-width: 1.16; stroke: none;' />
+</g>
+<defs>
+  <clipPath id='cpMzguNDB8NDE3LjA2fDUxLjk5fDIzOS42OA=='>
+    <rect x='38.40' y='51.99' width='378.65' height='187.68' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzguNDB8NDE3LjA2fDUxLjk5fDIzOS42OA==)'>
+<rect x='38.40' y='51.99' width='378.65' height='187.68' style='stroke-width: 1.16; stroke: none;' />
+<polyline points='82.09,60.53 154.91,111.25 227.73,131.67 300.55,85.56 373.37,183.72 ' style='stroke-width: 1.92; stroke: #009F9D; stroke-linecap: butt;' />
+<polyline points='82.09,222.58 154.91,180.42 227.73,231.15 300.55,202.82 373.37,192.28 ' style='stroke-width: 1.92; stroke: #AD77BF; stroke-linecap: butt;' />
+<line x1='227.73' y1='239.68' x2='227.73' y2='51.99' style='stroke-width: 1.28; stroke: #585757; stroke-dasharray: 6.83,6.83; stroke-linecap: butt;' />
+<circle cx='82.09' cy='60.53' r='5.92' style='stroke-width: 0.77; stroke: #009F9D; fill: #009F9D;' />
+<circle cx='154.91' cy='111.25' r='6.73' style='stroke-width: 0.77; stroke: #009F9D; fill: #009F9D;' />
+<circle cx='227.73' cy='131.67' r='6.19' style='stroke-width: 0.77; stroke: #009F9D; fill: #009F9D;' />
+<circle cx='300.55' cy='85.56' r='6.79' style='stroke-width: 0.77; stroke: #009F9D; fill: #009F9D;' />
+<circle cx='373.37' cy='183.72' r='6.73' style='stroke-width: 0.77; stroke: #009F9D; fill: #009F9D;' />
+<circle cx='82.09' cy='222.58' r='4.76' style='stroke-width: 0.77; stroke: #AD77BF; fill: #AD77BF;' />
+<circle cx='154.91' cy='180.42' r='1.45' style='stroke-width: 0.77; stroke: #AD77BF; fill: #AD77BF;' />
+<circle cx='227.73' cy='231.15' r='6.62' style='stroke-width: 0.77; stroke: #AD77BF; fill: #AD77BF;' />
+<circle cx='300.55' cy='202.82' r='5.92' style='stroke-width: 0.77; stroke: #AD77BF; fill: #AD77BF;' />
+<circle cx='373.37' cy='192.28' r='5.42' style='stroke-width: 0.77; stroke: #AD77BF; fill: #AD77BF;' />
+</g>
+<g clip-path='url(#cpMC4wMHw0MzIuMDB8MC4wMHwyNzAuMDA=)'>
+<text x='33.02' y='227.05' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='16.03px' lengthAdjust='spacingAndGlyphs'>0,10</text>
+<text x='33.02' y='194.11' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='16.03px' lengthAdjust='spacingAndGlyphs'>0,15</text>
+<text x='33.02' y='161.17' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='16.03px' lengthAdjust='spacingAndGlyphs'>0,20</text>
+<text x='33.02' y='128.24' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='16.03px' lengthAdjust='spacingAndGlyphs'>0,25</text>
+<text x='33.02' y='95.30' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='16.03px' lengthAdjust='spacingAndGlyphs'>0,30</text>
+<text x='33.02' y='62.36' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='16.03px' lengthAdjust='spacingAndGlyphs'>0,35</text>
+<text transform='translate(86.55,249.51) rotate(-45)' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='18.44px' lengthAdjust='spacingAndGlyphs'>2021</text>
+<text transform='translate(159.37,249.51) rotate(-45)' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='18.44px' lengthAdjust='spacingAndGlyphs'>2022</text>
+<text transform='translate(232.18,249.51) rotate(-45)' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='18.44px' lengthAdjust='spacingAndGlyphs'>2023</text>
+<text transform='translate(305.00,249.51) rotate(-45)' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='18.44px' lengthAdjust='spacingAndGlyphs'>2024</text>
+<text transform='translate(377.82,249.51) rotate(-45)' text-anchor='end' style='font-size: 9.60px;fill: #222121; font-family: "EB Garamond";' textLength='18.44px' lengthAdjust='spacingAndGlyphs'>2025</text>
+<text transform='translate(11.39,145.84) rotate(-90)' text-anchor='middle' style='font-size: 9.00px;fill: #222121; font-family: "EB Garamond";' textLength='73.36px' lengthAdjust='spacingAndGlyphs'>Dispersión de precios</text>
+<rect x='119.48' y='5.48' width='216.50' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<text x='119.48' y='16.68' style='font-size: 7.80px;fill: #222121; font-family: "EB Garamond";' textLength='35.80px' lengthAdjust='spacingAndGlyphs'>Proveedores</text>
+<rect x='161.25' y='5.48' width='17.28' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<circle cx='169.89' cy='14.12' r='2.55' style='stroke-width: 0.77; stroke: #222121; fill: #222121;' />
+<rect x='197.39' y='5.48' width='17.28' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<circle cx='206.03' cy='14.12' r='4.15' style='stroke-width: 0.77; stroke: #222121; fill: #222121;' />
+<rect x='233.54' y='5.48' width='17.28' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<circle cx='242.18' cy='14.12' r='5.10' style='stroke-width: 0.77; stroke: #222121; fill: #222121;' />
+<rect x='269.68' y='5.48' width='17.28' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<circle cx='278.32' cy='14.12' r='5.86' style='stroke-width: 0.77; stroke: #222121; fill: #222121;' />
+<rect x='305.82' y='5.48' width='17.28' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<circle cx='314.46' cy='14.12' r='6.50' style='stroke-width: 0.77; stroke: #222121; fill: #222121;' />
+<text x='184.51' y='16.48' style='font-size: 7.20px;fill: #222121; font-family: "EB Garamond";' textLength='6.91px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='220.65' y='16.48' style='font-size: 7.20px;fill: #222121; font-family: "EB Garamond";' textLength='6.91px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='256.79' y='16.48' style='font-size: 7.20px;fill: #222121; font-family: "EB Garamond";' textLength='6.91px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='292.93' y='16.48' style='font-size: 7.20px;fill: #222121; font-family: "EB Garamond";' textLength='6.91px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='329.08' y='16.48' style='font-size: 7.20px;fill: #222121; font-family: "EB Garamond";' textLength='6.91px' lengthAdjust='spacingAndGlyphs'>50</text>
+<rect x='148.95' y='22.76' width='157.56' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<text x='148.95' y='34.36' style='font-size: 9.00px;fill: #222121; font-family: "EB Garamond";' textLength='29.67px' lengthAdjust='spacingAndGlyphs'>Formato</text>
+<rect x='184.60' y='22.76' width='17.28' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<line x1='186.33' y1='31.40' x2='200.15' y2='31.40' style='stroke-width: 1.92; stroke: #009F9D; stroke-linecap: butt;' />
+<circle cx='193.24' cy='31.40' r='1.99' style='stroke-width: 0.77; stroke: #009F9D; fill: #009F9D;' />
+<rect x='248.99' y='22.76' width='17.28' height='17.28' style='stroke-width: 1.16; stroke: none;' />
+<line x1='250.72' y1='31.40' x2='264.54' y2='31.40' style='stroke-width: 1.92; stroke: #AD77BF; stroke-linecap: butt;' />
+<circle cx='257.63' cy='31.40' r='1.99' style='stroke-width: 0.77; stroke: #AD77BF; fill: #AD77BF;' />
+<text x='207.86' y='34.15' style='font-size: 8.40px;fill: #222121; font-family: "EB Garamond";' textLength='35.16px' lengthAdjust='spacingAndGlyphs'>Formato A</text>
+<text x='272.25' y='34.15' style='font-size: 8.40px;fill: #222121; font-family: "EB Garamond";' textLength='34.27px' lengthAdjust='spacingAndGlyphs'>Formato B</text>
+</g>
+</g>
+</svg>

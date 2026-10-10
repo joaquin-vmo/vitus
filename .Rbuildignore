@@ -1,0 +1,6 @@
+^\.DS_Store$
+^.*\.Rproj$
+^ejemplo$
+^\.gitignore$
+^vitus_.*\.tar\.gz$
+^\.Rhistory$
