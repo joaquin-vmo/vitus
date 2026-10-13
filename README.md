@@ -13,15 +13,11 @@
        /    \\_//    \
 ```
 
-Formato de figuras para presentaciones e informes: tema, paleta, fuente
-y escalas de ggplot2. El de presentaciones (fondo oscuro, Georgia) queda activo con
+Formato de figuras para presentaciones e informes El de presentaciones (fondo oscuro, Georgia) queda activo con
 solo cargar el paquete. El de informes (fondo blanco, Garamond, para un Word en 11 pt)
 se usa al guardar con `informe()`.
 
-Esta guía se sigue de principio a fin con los datos sintéticos de `ejemplo/datos.rds` (la carpeta
-`ejemplo/` está en el repositorio, no se instala con el paquete).
-En `ejemplo/ejemplos.R` están las mismas figuras, listas para correr. Cada una se guarda en los
-dos formatos, y el resultado está en `ejemplo/outputs/presentacion` y `ejemplo/outputs/informe`.
+Esta guía se sigue de principio a fin con los datos sintéticos de `ejemplo/datos.rds`.
 
 ## 1. Instalar
 
@@ -40,8 +36,7 @@ Las dependencias (`tidyverse`, `ragg`, `scales`, `svglite` y `systemfonts`) se i
 library(vitus)   # carga también tidyverse
 ```
 
-Con esto queda activo, para toda la sesión:
-
+Con esto queda listo:
 - el tema oscuro, la fuente Georgia y la paleta de colores
 - líneas y puntos más gruesos, a la escala de una diapositiva
 - números con punto de miles y coma decimal en los ejes (`1.000`, `2,5`)
@@ -50,11 +45,11 @@ Con esto queda activo, para toda la sesión:
   `color_vline_informe` y `paleta_informe`)
 
 vitus reemplaza algunas escalas de ggplot2 (`scale_y_continuous()` y otras) por versiones con
-su formato de números. Lo hace a propósito, así que R no avisa del reemplazo.
+su formato de números.
 
-## 3. El primer gráfico
+## 3. Gráficos
 
-Se escribe ggplot2 normal, sin `theme()` ni colores:
+Hay que escribir el ggplot2 básico, sin personalización. Los colores salen de la paleta y en orden.
 
 ```r
 datos <- readRDS("datos.rds")
@@ -66,8 +61,6 @@ p <- ggplot(trimestral, aes(trimestre, kg, color = calidad)) +
   labs(title = "Cantidad por calidad", y = "Cantidad (kg)", color = "Calidad")
 p
 ```
-
-Los colores salen de la paleta y en orden. Con una sola serie se usa el primero.
 
 ## 4. Guardar para el ppt
 
@@ -85,21 +78,19 @@ ppt(p, "01_series_trimestrales")
 Se puede cambiar:
 
 ```r
-ppt(p, "fig", carpeta = "outputs")               # otra carpeta
-ppt(p, "fig", ancho = 10, alto = 4)               # otro tamaño, en pulgadas
-ppt(p, "fig", formato = "svg")                    # SVG
-ppt(p, "fig", formato = c("png", "svg"))          # ambos
+ppt(p, "fig", carpeta = "outputs") # otra carpeta
+ppt(p, "fig", ancho = 10, alto = 4) # otro tamaño, en pulgadas
+ppt(p, "fig", formato = "svg") # SVG
+ppt(p, "fig", formato = c("png", "svg")) # ambos
 ```
 
-Para no repetirlo en cada figura, se fija una vez al inicio del script:
+Para no repetirlo en cada figura, se puede fijar una vez al inicio del script
 
 ```r
 options(vitus.carpeta = "outputs", vitus.formato = c("png", "svg"))
 ```
 
-**¿PNG o SVG?** Se recomienda SVG: es vectorial, así que se ve nítido a cualquier tamaño, y en
-PowerPoint el texto se puede editar (*Insertar → Imágenes*, y luego *Convertir en forma*).
-Conviene usar PNG cuando la figura va a otro programa que no lee SVG.
+SVG es una mejor opción para los informes y presentaciones. 
 
 ## 5. Guardar para el informe
 
